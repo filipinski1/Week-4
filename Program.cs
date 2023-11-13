@@ -27,6 +27,7 @@ namespace Week_4
             int vowelCount = program.CountVowels(inputString);
 
             Console.WriteLine($"Number of vowels in the string: {vowelCount}");
+            Console.WriteLine($"Bye");
         }
 
         public int CountWordsWith4OrMoreLetters(string text)
