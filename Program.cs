@@ -44,6 +44,10 @@ namespace Week_4
             return counter;
         }
 
+
+
+
+
      
 
         public bool IsPalindrome(string text)
