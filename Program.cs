@@ -46,6 +46,8 @@ namespace Week_4
 
 
 
+
+
      
 
         public bool IsPalindrome(string text)
